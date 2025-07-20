@@ -101,3 +101,5 @@ InitTestScene*.unity*
 Bild/
 Assets/TextMesh Pro/
 Assets/WebGLTemplates/
+
+.vsconfig
